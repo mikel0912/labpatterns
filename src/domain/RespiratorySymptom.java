@@ -1,5 +1,6 @@
 package domain;
 
+
 public class RespiratorySymptom extends Symptom{
 
 	public RespiratorySymptom(String name, int covidImpact, int severityIndex) {
@@ -8,3 +9,5 @@ public class RespiratorySymptom extends Symptom{
 	}
 
 }
+
+
